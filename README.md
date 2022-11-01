@@ -1,6 +1,6 @@
 # BigoSoft
 Se trata de un proyecto del grado superior de DAW
--------------------------------------------------
+
 
 ## Qué es?
 Con mayor enfoque en el diseño que en la funcionalidad, es una página web para una empresa ficticia con diversas categorías, entre las que se encuentran:
